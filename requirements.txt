@@ -3,7 +3,7 @@ numpy
 pandas
 
 gensim
-re
+
 string
 nltk
 os
