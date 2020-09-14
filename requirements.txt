@@ -6,6 +6,6 @@ gensim
 
 
 nltk
-os
+
 pydeck
 sklearn
