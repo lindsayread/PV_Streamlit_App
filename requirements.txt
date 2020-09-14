@@ -5,7 +5,7 @@ pandas
 gensim
 
 
-nltk
+
 
 pydeck
 sklearn
