@@ -1,0 +1,12 @@
+streamlit
+
+numpy
+pandas
+sklearn.metrics.pairwise
+gensim
+re
+string
+nltk
+os
+pydeck
+sklearn.preprocessing
