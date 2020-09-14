@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import gensim
 import re
 import string
-import nltk
+#import nltk
 import os
 import pydeck as pdk
 from sklearn.preprocessing import StandardScaler

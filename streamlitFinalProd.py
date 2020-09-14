@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import gensim
 import re
 import string
-import nltk
+#import nltk
 # from p5Functions import run_nlp_portion_only
 # from other_features import run_others_only
 from nlp_and_others import run_nlp_and_others
